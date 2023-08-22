@@ -4,10 +4,8 @@ import com.mjc.school.repository.interfaces.RoleRepository;
 import com.mjc.school.repository.interfaces.UserRepository;
 import com.mjc.school.repository.model.RoleModel;
 import com.mjc.school.repository.model.UserModel;
-import com.mjc.school.service.dto.LoginDTO;
 import com.mjc.school.service.dto.RegisterDTO;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
