@@ -1,0 +1,6 @@
+rootProject.name = 'stage4-task2-security'
+
+include 'module-repository'
+include 'module-service'
+include 'module-web'
+
